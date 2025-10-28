@@ -14,6 +14,4 @@ The following methods can be used:
 
 GET, POST, PATCH, DELETE
 
-Documentation: 
-
-documenter.getpostman.com/view/33209789/2sB3WmT3GN
+ [Documentation](https://documenter.getpostman.com/view/33209789/2sB3WmT3GN)
