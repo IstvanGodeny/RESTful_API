@@ -11,9 +11,7 @@ I plan some development, namely:
 Please note that this is a demo project, created as part of my learning journey as a junior Python developer. I focused on building a functional, maintainable, and visually clean app, without unnecessary complexity.
 
 The following methods can be used:
-
 GET, POST, PATCH, DELETE
 
 Documentation: 
-
 documenter.getpostman.com/view/33209789/2sB3WmT3GN
